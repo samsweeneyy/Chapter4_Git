@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hat
+comment1.params=
+comment1.target=Hat()
+comment2.params=sty\ prc
+comment2.target=Hat(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getStyle()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
